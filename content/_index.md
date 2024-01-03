@@ -62,27 +62,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Teaching Assistant
+          company: University of California, San Diego
+          company_url: 'https://datascience.ucsd.edu/'
+          company_logo: hdsi
+          location: San Diego. CA
+          date_start: '2024-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Introduction to Database Management
+              * Discussion and Mentorship
+              * Administration
+        - title: Teaching Assistant
+          company: Vidyalankar Polytechnic
+          company_url: 'https://vpt.edu.in/diploma/polytechnic/index.html'
+          company_logo: vp
+          location: Mumbai, MH
+          date_start: '2023-03-01'
+          date_end: '2023-05-31'
+          description: |2-
+              Responsibilities include:
+
+              * C Programming
+              * Practical Sessions
+        - title: Software Development Intern
+          company: Animus IT Management
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: animus
+          location: Mumbai, MH
+          date_start: '2021-10-01'
+          date_end: '2022-01-01'
+          description: |2-
+              Responsibilities include:
+
+              * Web App Development
+              * React JS, PWA, Data Visualization
     design:
       columns: '2'
   - block: accomplishments

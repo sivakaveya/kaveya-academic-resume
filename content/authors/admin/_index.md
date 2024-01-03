@@ -41,7 +41,7 @@ education:
     - course: Bachelors of Science in Data Science
       institution: Indian Institute of Technology, Madras
       year: 2024
-    - course: Bachelors of Engineering in Computer Science
+    - course: Bachelors of Engineer in Computer Science
       institution: University of Mumbai
       year: 2023
 
@@ -85,7 +85,7 @@ skills:
         icon_pack: fas
       - name: Surfing
         description: ''
-        icon: wave
+        icon: water
         icon_pack: fas
       - name: Gym
         description: ''
@@ -93,7 +93,6 @@ skills:
         icon_pack: fas
       - name: Car
         description: ''
-        percent: 80
         icon: car
         icon_pack: fas
 
