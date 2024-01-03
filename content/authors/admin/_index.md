@@ -1,50 +1,49 @@
 ---
 # Display name
-title: 吳健雄
+title: Kaveya Sivaprakasam
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kaveya
+last_name: Sivaprakasam
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ∞
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Data Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, San Diego
+    url: https://datascience.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Creative and friendly, always eager to contribute to the community. Motivated individual who is committed to promoting academic excellence through dedication and collaborative nature.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Engineering
+  - Backend Developement
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Masters of Science in Data Science
+      institution: University of California, San Diego
+      year: 2025
+    - course: Bachelors of Science in Data Science
+      institution: Indian Institute of Technology, Madras
+      year: 2024
+    - course: Bachelors of Engineering in Computer Science
+      institution: University of Mumbai
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,37 +52,49 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
         icon: database
         icon_pack: fas
+      - name: Web Development
+        description: ''
+        icon: code
+        icon_pack: fas
+      - name: Cloud Computing
+        description: ''
+        icon: cloud
+        icon_pack: fab
+      - name: Java
+        description: ''
+        icon: java
+        icon_pack: fab
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Sketching
         description: ''
-        percent: 60
-        icon: person-hiking
+        icon: palette
         icon_pack: fas
-      - name: Cats
+      - name: Guitar
         description: ''
-        percent: 100
-        icon: cat
+        icon: guitar
         icon_pack: fas
-      - name: Photography
+      - name: Surfing
+        description: ''
+        icon: wave
+        icon_pack: fas
+      - name: Gym
+        description: ''
+        icon: dumbbell
+        icon_pack: fas
+      - name: Car
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: car
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,22 +104,18 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: mailto:sivakaveya1@gmail.com
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.instagram.com/sivakaveya/
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sivakaveya
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/sivakaveya/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +127,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Creative and friendly, always eager to contribute to the community. Motivated individual who is committed to promoting academic excellence through dedication and collaborative nature.
 {style="text-align: justify;"}
