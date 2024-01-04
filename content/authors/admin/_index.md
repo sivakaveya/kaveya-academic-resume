@@ -51,23 +51,18 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
         icon: python
         icon_pack: fab
       - name: SQL
-        description: ''
         icon: database
         icon_pack: fas
       - name: Web Development
-        description: ''
         icon: code
         icon_pack: fas
       - name: Cloud Computing
-        description: ''
         icon: cloud
         icon_pack: fab
       - name: Java
-        description: ''
         icon: java
         icon_pack: fab
       
@@ -76,23 +71,18 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Sketching
-        description: ''
         icon: palette
         icon_pack: fas
       - name: Guitar
-        description: ''
         icon: guitar
         icon_pack: fas
       - name: Surfing
-        description: ''
         icon: water
         icon_pack: fas
       - name: Gym
-        description: ''
         icon: dumbbell
         icon_pack: fas
       - name: Car
-        description: ''
         icon: car
         icon_pack: fas
 

@@ -33,8 +33,13 @@ marketing:
 
 header:
   navbar:
+    logo:
+        # Logo text
+        text: ""
+        # Logo filename in `assets/media/` folder
+        filename: "icon.png"
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
